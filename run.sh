@@ -16,9 +16,9 @@ if [ "$skipdata" = true ]; then
 else
   python preprocess/preprocess.py
   python preprocess/generate_feature.py
-  python train/interpolate.py
 fi
 
+python train/interpolate.py
 python train/train_cat_v56.py $inference
 python train/train_cat_v58.py $inference
 python train/train_cat_v59.py $inference
