@@ -1,0 +1,15 @@
+# General
+nohup.out
+.DS_Store
+
+# Python-related
+.ipynb_checkpoints/
+__pycache__/
+
+# Package specific
+catboost_info/
+
+# Project
+data/
+misc/
+models/
