@@ -3,7 +3,7 @@
 
 **Public / Private:  10817.55866 / 11713.39842**
 
-- 本モデルの外部データと学習済みモデルは[Yandex Drive](https://yadi.sk/d/cYsRzT4nMIRLqg)からダウンロード可能。
+- 本モデルの外部データと学習済みモデルは[Yandex Disk](https://yadi.sk/d/cYsRzT4nMIRLqg)からダウンロード可能。
 - 学習用データと検証用データは各自[コンペ公式サイト](https://signate.jp/competitions/182/data)からダウンロードすること。
 
 ### データの準備
@@ -18,6 +18,8 @@
       (XX = 30, 28)
     ┣ station_users.csv     - 駅乗降者数(https://opendata-web.site/station/rank/)
     ┣ tokyo_population.csv  - 人口情報(https://www.e-stat.go.jp/gis/)
+    ┣ google_map_XX.csv     - google map apiで取得した座標情報
+      (XX = train, test)
 ```
 
 ### 環境構築

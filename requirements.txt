@@ -1,6 +1,6 @@
 numpy==1.16.3
-mojimoji==0.0.9
-matplotlib==3.0.3
+mojimoji==0.0.9.post0
+matplotlib==3.1.1
 japanize_matplotlib==1.0.5
 tqdm==4.30.0
 scipy==1.2.0
