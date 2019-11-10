@@ -60,3 +60,11 @@
 -d : データ前処理をスキップする。train/test_complete.csvがすでにある場合に使用する。
 -l : 学習済みモデルを使用する。modelsに学習済みモデルが存在しない場合は使用しないこと。
 ```
+
+### 謝辞
+Team members
+
+- [Hiroshi Yoshihara](https://github.com/analokmaus)
+- [Taiki Yamaguchi](https://github.com/yamaguchitai)
+- [Kosaku Ohno](https://github.com/Kevinrobot34)
+- [Masato Tsutsumi](https://github.com/masa10223)
