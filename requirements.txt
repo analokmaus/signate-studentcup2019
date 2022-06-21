@@ -1,4 +1,4 @@
-numpy==1.16.3
+numpy==1.22.0
 mojimoji==0.0.9.post0
 matplotlib==3.1.1
 japanize_matplotlib==1.0.5
