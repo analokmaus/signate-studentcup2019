@@ -3,7 +3,7 @@ mojimoji==0.0.9.post0
 matplotlib==3.1.1
 japanize_matplotlib==1.0.5
 tqdm==4.30.0
-scipy==1.2.0
+scipy==1.10.0
 catboost==0.12.2
 seaborn==0.9.0
 chainer==5.3.0
